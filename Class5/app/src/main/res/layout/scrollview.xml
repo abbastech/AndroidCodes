@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Android Development"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Compiler Construction"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Database Managemtn"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Android Development"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Android Development"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Android Development"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MickeyMouse"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="pink Panther"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Batman"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Johhny Cash"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Android Development"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Android Development"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp"
+
+            />
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

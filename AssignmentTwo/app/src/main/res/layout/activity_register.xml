@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    >
+
+    <EditText
+        android:id="@+id/etFirstName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="First Name"
+        />
+
+    <EditText
+        android:layout_marginTop="10dp"
+        android:id="@+id/etSecondName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Second Name"
+        />
+    <EditText
+        android:layout_marginTop="10dp"
+        android:id="@+id/etPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:inputType="textPassword"
+        />
+    <EditText
+        android:layout_marginTop="10dp"
+        android:id="@+id/etConfirmPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Confirm Password"
+        android:inputType="textPassword"
+        />
+    <EditText
+        android:layout_marginTop="10dp"
+        android:id="@+id/etDOB"
+        android:hint="Date of Birth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="date"
+        />
+    <Spinner
+        android:layout_marginTop="10dp"
+        android:id="@+id/sp_Gender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </Spinner>
+    <Spinner
+        android:layout_marginTop="10dp"
+        android:id="@+id/sp_Country"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </Spinner>
+
+    <EditText
+        android:layout_marginTop="10dp"
+        android:id="@+id/etCity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="City"
+        />
+    <Button
+        android:layout_marginTop="20dp"
+        android:id="@+id/btnRegister"
+        android:background="@android:color/holo_green_light"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:textColor="@android:color/white"
+        />
+</LinearLayout>
